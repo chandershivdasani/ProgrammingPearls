@@ -1,4 +1,3 @@
-package Column1;
 
 /**
  * Compute all the permutations of the given string.

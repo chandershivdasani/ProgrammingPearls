@@ -1,4 +1,3 @@
-package Column1;
 
 /**
  *  This class demonstrates a simple algorithm to rotate
