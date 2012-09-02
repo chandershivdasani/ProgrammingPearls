@@ -3,6 +3,8 @@
  * Compute all the permutations of the given string.
  * Reference: http://newton.ex.ac.uk/teaching/jmr/recursion.html
  * 
+ * Total number of permutations for a string of len(n): n!
+ * 
  * @author Chander
  *
  */

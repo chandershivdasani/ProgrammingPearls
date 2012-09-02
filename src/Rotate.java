@@ -2,7 +2,9 @@
 /**
  *  This class demonstrates a simple algorithm to rotate
  *  a Vector V to the left by I positions
- * 
+ *  
+ * O(n) time and O(1) space.
+ *  
  * @author Owner
  *
  */
@@ -41,7 +43,7 @@ public class Rotate {
 		char[] chars = args[0].toCharArray();
 		int i = Integer.parseInt(args[1]);
 		
-		reverse(chars, 0, i-1);
+		reverse(chars, 0, i-1); 
 		reverse(chars, i, chars.length-1);
 		reverse(chars, 0, chars.length-1);
 
