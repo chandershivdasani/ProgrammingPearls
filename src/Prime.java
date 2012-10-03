@@ -17,7 +17,7 @@ public class Prime {
 		primes[1] = false;
 		
 		/*
-		 * If any number > sqrt(n) divides n, the resulting
+		 * If any number < sqrt(n) divides n, the resulting
 		 * number will be between 1 - n and will also divide 
 		 * n.
 		 */
