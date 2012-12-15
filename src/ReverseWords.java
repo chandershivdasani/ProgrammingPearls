@@ -7,7 +7,7 @@
  * then reverse individual words in the sentence.
  * 
  * Pass 1: "uoht tra erehW"
- * Pass 2: "thou are Where" 
+ * Pass 2: "thou art Where" 
  * 
  * @author chandershivdasani
  *
